@@ -11,6 +11,10 @@
     height: 120px;
     background-color: black;
 }
+#black_box:hover{
+    height: 200px;
+    transition: 0.9s;
+}
 
 body {
     background-image: url(contact.jpg);
